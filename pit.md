@@ -32,32 +32,58 @@
 • Indica quanta memòria d'intercanvi està utilitzant el sistema. 
 
 ![Captura desde 2024-12-12 11-29-01](https://github.com/user-attachments/assets/6117a988-d955-444a-880a-2889ee83a3c0)
+
 • Indica quants processos tens oberts i quants estan en execució en  aquest moment. 
+
 ![image](https://github.com/user-attachments/assets/f23ce37f-9c9c-4c00-bd98-f98de2a908c2)
+
 • Torna a obrir Firefox i mostra el procés amb la ruta a l'executable del  programa. 
+
 ![Captura desde 2024-12-12 11-29-33](https://github.com/user-attachments/assets/42a17ad1-1fc2-406d-9f89-2dc1809326cb)
-8. Amb la comanda htop mostra el percentatge de la memòria utilitzada. 6. Utilitzant gnome-system-monitor mostra: 
+
+8. Amb la comanda htop mostra el percentatge de la memòria utilitzada. 6. Utilitzant gnome-system-monitor mostra:
+
+
 ![image](https://github.com/user-attachments/assets/813fb9a1-ce89-482d-b159-46aa4af9d639)
+
 • El procés que utilitza més memòria. 
+
 • El procés que utilitza més CPU. 
+
 ![Captura desde 2024-12-12 11-30-09](https://github.com/user-attachments/assets/db44b4ac-ce60-4ad0-812e-1da9e507849f)
+
+
 • Obre el programa calculadora i busca'l. 
+
 • Indica el seu PID.
+
 ![image](https://github.com/user-attachments/assets/2544c9a7-6c1f-4288-b0e6-d7638e700aab)
+
 • Mata el procés. 
+
 ![Captura desde 2024-12-12 11-30-44](https://github.com/user-attachments/assets/d922eccc-3d0d-45ca-b8d9-96031b73931d)
+
 • Amb el monitor de recursos mostra l'activitat de xarxa. 
+
 ![Captura desde 2024-12-12 11-30-59](https://github.com/user-attachments/assets/41064ddb-bd7c-441b-8bdc-694a46066c63)
+
 • Amb Sistema de fitxers mostra l'espai lliure a /home.
+
 ![image](https://github.com/user-attachments/assets/57059a84-0a06-438f-8c40-28e5e6fb3a0b)
 • mostra l'espai lliure a l'arrel del sistema.
+
 ![image](https://github.com/user-attachments/assets/d218b587-2ede-4eac-9c17-beab3f85a6bb)
+
 • Canvia les preferències per que els processos s'actualitzin cada 2  segons i per que mostri l'estat d'execució dels processos. 
+
 ![image](https://github.com/user-attachments/assets/313d4334-b210-4538-b6f9-a4231588d5d3)
+
 ![image](https://github.com/user-attachments/assets/21f15283-4ec7-460e-81d5-e133cf224cd0)
+
 • Busca els processos que estan en estat d'execució i mostra'ls. 
+
 ![image](https://github.com/user-attachments/assets/42cc0fc1-b4ff-4828-a22d-4dbccdf34fdf)
-9. Monitoratge: 
+10. Monitoratge: 
 • Crea la carpeta /prova 
 • Busca a /var/log/auth.log l'esdeveniment on es registra que has creat la  carpeta. 
 ![Uploading image.png…]()
